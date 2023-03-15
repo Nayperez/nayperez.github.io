@@ -1,0 +1,28 @@
+h1{
+    font-family:serif;
+    color:lightpink;
+    text-align:center;
+    background-color: cornsilk;
+}
+#logo{
+    display: inline-block;
+    width: 15%;
+}
+#titulo{
+    float:right;
+    display: inline-block;
+    width: 70%;
+    margin:40px;
+    font-size: 90px;
+    text-shadow: 0px 2px 4px;
+    text-decoration: underline;
+}
+#barra{
+    clear: both;
+}
+.nav{
+    display:inline-block;
+    border:solid pink;
+    padding: 6px;
+    margin:2px;
+}

@@ -1,0 +1,90 @@
+#titulo{
+    display: inline-block;
+    float:inherit;
+   text-align: center;
+    color:chocolate;
+    width: 100%
+}
+h5{
+   text-decoration: inherit;
+   width: 100%;
+   font-size: 130%
+}
+h6{
+    text-decoration: inherit;
+    width: 100%;
+    font-size: 130%;
+    
+}
+h7{
+    text-decoration: inherit;
+    width: 100%;
+    font-size: 130%;
+    color: black;
+}
+h8{
+    width: 100%;
+    text-decoration: inherit;
+    font-size: 130%;
+    color: black;
+}
+h9{
+    width: 100%;
+    text-decoration: inherit;
+    font-size: 130%;
+    color: black;
+    
+}
+#text{
+    text-align: left;
+    text-decoration: inherit;
+    width: 100%;
+}
+#sub{
+    text-align: center;
+    color: chocolate
+}
+#principal{
+    text-align: center;
+}
+#img{
+    box-shadow: 0px 5px 5px;
+}
+#desa{
+    text-align: center;
+    width: 200%;
+    text-decoration: underline;
+}
+#sub1{
+    color:beige;
+    background-color:darksalmon;
+    
+}
+#sub6{
+ color:beige;
+    background-color: darksalmon;
+}
+#sub3{
+    color:beige;
+    background-color: darksalmon;
+    text-align: center;
+    width: 20%;
+}
+#sub4{
+    color:beige;
+    background-color: darksalmon;
+    text-align: center;
+}
+#sub5{
+    color:beige;
+    background-color:darksalmon;
+    text-align: center;
+}
+#imag1{
+    text-align:center;
+    float: center;
+}
+#imag2{
+    text-align: center;
+    float: center;
+}

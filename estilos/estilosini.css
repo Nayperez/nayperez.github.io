@@ -1,0 +1,36 @@
+#principal{
+    text-align: center;
+    box-shadow: 3px 5px;
+}
+#titulo2{
+    text-align: center;
+    
+}
+#resu{
+    font-family: monospace;
+}
+.titulo{
+    align-content: center;
+    border: double;
+    border-color: lightcoral;
+    text-align: center;
+    font-style:inherit;
+    background-color: snow;
+
+}
+#text{
+    text-align: center;
+    font-style: sans-serif;
+    
+}
+h6{
+    font-family: fantasy;
+    background-color: mistyrose;
+}
+#maraudio{
+    float: left
+    display: inline-block;
+    width: 20%;
+    height: 200px;
+    margin: 20px;
+}
